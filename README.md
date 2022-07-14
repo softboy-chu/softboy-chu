@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @softboy-chu
 - 👀 I’m interested in ... frontend-development
-- 🌱 I’m currently learning ... CSS
+- 🌱 I’m currently learning ... CSS, JS
 - 💞️ I’m looking to collaborate on ... some projects that'll enable learn perfectly & understand
 - 📫 How to reach me ... twitter @chukwxma
 
