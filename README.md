@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @softboy-chu
-- 👀 I’m interested in ... frontend-development
-- 🌱 I’m currently learning ... react
-- 💞️ I’m looking to collaborate on ... front end projects & also internship opportunities
+-- A Frontend Developer passionate about creating responsive, user-friendly, and modern web interfaces.
+
+-- Skills
+- HTML, CSS, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
+- Git, GitHub, Figma
+
 - 📫 How to reach me ... twitter & IG @chukwxma, email: okekechukwuma88@gmail.com 
 
 <!---
